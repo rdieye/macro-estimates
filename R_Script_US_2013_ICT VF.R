@@ -4,7 +4,7 @@
 # IT CAN BE REPLICATED USING DATA ON OTHER REGIONS
 # @Rokhaya DIEYE, October 2019
 ######################################################################################################################################################
-setwd("C:/Users/RDieye/Desktop/Macro")
+
 # Load libraries
 require(foreign)
 library(MASS)
